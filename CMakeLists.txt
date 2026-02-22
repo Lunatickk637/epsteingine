@@ -3,5 +3,7 @@ project(epsteingine)
 
 set(CMAKE_CXX_STANDARD 20)
 
+add_subdirectory(external/raylib)
+
 add_subdirectory(engine)
 add_subdirectory(sandbox)

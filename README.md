@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# epsteingine
+# Epsteingine
 
-=======
-# epsteingine
->>>>>>> 2bfea3d3a9ccfe079ad5976aed403e036e5b67a0
+Pequeno frame de jogos 2D baseado em raylib, pensado para jams e pequenos projetos.

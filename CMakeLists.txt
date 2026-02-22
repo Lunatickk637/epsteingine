@@ -3,4 +3,5 @@ project(epsteingine)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(epsteingine main.cpp)
+add_subdirectory(engine)
+add_subdirectory(sandbox)
